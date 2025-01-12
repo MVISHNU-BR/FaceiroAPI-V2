@@ -4,7 +4,7 @@
       "id": 1,
       "name": "John",
       "lastname": "Due",
-      "usuario": "@john",
+      "userName": "john",
       "datecreated": "12/12/2012",
       "email": "due.john@mail.com",
       "password": "teste",
